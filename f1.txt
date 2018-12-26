@@ -2,3 +2,4 @@ master 1
 develop 2
 feature 3
 release-1.0
+hoxfix-some 5
